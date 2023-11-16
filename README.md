@@ -11,7 +11,7 @@
 | Web                  | ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white)  |  ![Static Badge](https://img.shields.io/badge/Joomla-%235091CD?logo=Joomla&logoColor=red) ![Static Badge](https://img.shields.io/badge/Drupal-%230678BE?logo=Drupal&logoColor=white)     |
 |                      | Ciberseguridad |                          |
 | Plataformas          |![Static Badge](https://img.shields.io/badge/Offensive%20Security-red) ![Static Badge](https://img.shields.io/badge/TCM%20Security-%23E20074) ![Static Badge](https://img.shields.io/badge/HackTheBox-black?logo=HackTheBox&logoColor=%239FEF00) ![Static Badge](https://img.shields.io/badge/TryHackMe-%23212C42?logo=TryHackMe&logoColor=red)      |  ![Static Badge](https://img.shields.io/badge/eLearningSecurity-%23DD00A1)                        |
-| Frameworks           |![Static Badge](https://img.shields.io/badge/Metasploit-%23004088)  ![Static Badge](https://img.shields.io/badge/BurpSuite-%23FF9A00) ![Static Badge](https://img.shields.io/badge/Nessus-%230DBDFF) ![Static Badge](https://img.shields.io/badge/Beef-%2326689A)        ![Static Badge](https://img.shields.io/badge/SQLmap-%23FF6550) ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?logo=Wireshark)      |  ![Static Badge](https://img.shields.io/badge/Covenant-%23191A1B)                        |
+| Frameworks           |![Static Badge](https://img.shields.io/badge/Metasploit-%23004088)  ![Static Badge](https://img.shields.io/badge/BurpSuite-%23FF9A00) ![Static Badge](https://img.shields.io/badge/Nessus-%230DBDFF) ![Static Badge](https://img.shields.io/badge/Beef-%2326689A)        ![Static Badge](https://img.shields.io/badge/SQLmap-%23FF6550) ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?logo=Wireshark) ![Static Badge](https://img.shields.io/badge/Immunity%20Debugger-%23C70D2C)     |  ![Static Badge](https://img.shields.io/badge/Covenant-%23191A1B)                        |
 
 
 
@@ -20,9 +20,10 @@
 
 | Categoria               | Herramienta |
 | ----------------------- | ----------- |
-| Enumeracion             |             |
+| Enumeracion             | ![Static Badge](https://img.shields.io/badge/Nmap-%231A285F)  ![Static Badge](https://img.shields.io/badge/NMAP-%231A285F) ![Static Badge](https://img.shields.io/badge/wfuzz-%231A285F) ![Static Badge](https://img.shields.io/badge/gobuster-%231A285F) ![Static Badge](https://img.shields.io/badge/dirsearch-%231A285F) ![Static Badge](https://img.shields.io/badge/nikto-%231A285F) ![Static Badge](https://img.shields.io/badge/whatweb-%231A285F) ![Static Badge](https://img.shields.io/badge/wpscan-%231A285F) ![Static Badge](https://img.shields.io/badge/drupescan-%231A285F) ![Static Badge](https://img.shields.io/badge/joomscan-%231A285F) ![Static Badge](https://img.shields.io/badge/joomblah-%231A285F) ![Static Badge](https://img.shields.io/badge/smbclient-%231A285F) ![Static Badge](https://img.shields.io/badge/smbmap-%231A285F) ![Static Badge](https://img.shields.io/badge/crackmapexec-%231A285F) ![Static Badge](https://img.shields.io/badge/enum4linux-%231A285F) ![Static Badge](https://img.shields.io/badge/sslscan-%231A285F) ![Static Badge](https://img.shields.io/badge/curl-%231A285F)           |
 | Explotacion             |             |
 | Escalada de privilegios |             |
-| Criptografía            |             |
-| Port Forwarding         |             |
-| Tunneling               |             |
+| Criptografía            |![Static Badge](https://img.shields.io/badge/johntheripper-%231A285F) ![Static Badge](https://img.shields.io/badge/hashcat-%231A285F)             |
+| Fuzzing                 | ![Static Badge](https://img.shields.io/badge/hydra-%231A285F)  ![Static Badge](https://img.shields.io/badge/cewl-%231A285F)           |
+| Port Forwarding         | ![Static Badge](https://img.shields.io/badge/plink-%231A285F) ![Static Badge](https://img.shields.io/badge/ssh-%231A285F) ![Static Badge](https://img.shields.io/badge/netsh-%231A285F) ![Static Badge](https://img.shields.io/badge/socat-%231A285F) ![Static Badge](https://img.shields.io/badge/proxychains-%231A285F)               |
+| Tunneling               |  ![Static Badge](https://img.shields.io/badge/shuttle-%231A285F) ![Static Badge](https://img.shields.io/badge/chisel-%231A285F) ![Static Badge](https://img.shields.io/badge/ligolo–ng-%231A285F)            |
