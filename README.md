@@ -11,5 +11,18 @@
 | Web                  | ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white)  |  ![Static Badge](https://img.shields.io/badge/Joomla-%235091CD?logo=Joomla&logoColor=red) ![Static Badge](https://img.shields.io/badge/Drupal-%230678BE?logo=Drupal&logoColor=white)     |
 |                      | Ciberseguridad |                          |
 | Plataformas          |![Static Badge](https://img.shields.io/badge/Offensive%20Security-red) ![Static Badge](https://img.shields.io/badge/TCM%20Security-%23E20074) ![Static Badge](https://img.shields.io/badge/HackTheBox-black?logo=HackTheBox&logoColor=%239FEF00) ![Static Badge](https://img.shields.io/badge/TryHackMe-%23212C42?logo=TryHackMe&logoColor=red)      |  ![Static Badge](https://img.shields.io/badge/eLearningSecurity-%23DD00A1)                        |
-| Frameworks           |                |                          |
-| Herramientas         | High           | Low                      |
+| Frameworks           |![Static Badge](https://img.shields.io/badge/Metasploit-%23004088)  ![Static Badge](https://img.shields.io/badge/BurpSuite-%23FF9A00) ![Static Badge](https://img.shields.io/badge/Nessus-%230DBDFF) ![Static Badge](https://img.shields.io/badge/Beef-%2326689A)        ![Static Badge](https://img.shields.io/badge/SQLmap-%23FF6550) ![Static Badge](https://img.shields.io/badge/Wireshark-%231679A7?logo=Wireshark)      |  ![Static Badge](https://img.shields.io/badge/Covenant-%23191A1B)                        |
+
+
+
+                                                              # Herramientas
+
+
+| Categoria               | Herramienta |
+| ----------------------- | ----------- |
+| Enumeracion             |             |
+| Explotacion             |             |
+| Escalada de privilegios |             |
+| Criptografía            |             |
+| Port Forwarding         |             |
+| Tunneling               |             |
