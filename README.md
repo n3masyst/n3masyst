@@ -34,8 +34,8 @@
 
 | Categoria      | Vulnerabilidad |
 | -------------- | -------------- |
-| SQL Injection  |                |
-| CMS            |                |
+| SQL Injection  | ![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?logo=microsoftsqlserver)  ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=black) ![Static Badge](https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=orange) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)  ![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?logo=mariadb&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white)               |
+| CMS            | ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Joomla-%235091CD?logo=Joomla&logoColor=red) ![Static Badge](https://img.shields.io/badge/Drupal-%230678BE?logo=Drupal&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Strapi-%234945FF?logo=Strapi&logoColor=white) ![Static Badge](https://img.shields.io/badge/October%20CMS-white?logo=octobercms&logocolor=%23DB6A26)  ![Static Badge](https://img.shields.io/badge/WonderCMS-orange) ![Static Badge](https://img.shields.io/badge/ZenPhoto-orange) ![Static Badge](https://img.shields.io/badge/Subrion-orange) ![Static Badge](https://img.shields.io/badge/CS--Cart-orange) ![Static Badge](https://img.shields.io/badge/Ovidentia-orange) ![Static Badge](https://img.shields.io/badge/OTRS-orange) ![Static Badge](https://img.shields.io/badge/Cuppa-orange) ![Static Badge](https://img.shields.io/badge/Nibbleblog-orange)              |
 | Aplicacion Web |                |
 | Arquitectura   |                |
 
