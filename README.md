@@ -1,7 +1,7 @@
 
 
 |                      | Que uso        | Que me gustaria aprender |
-| -------------------- | -------------- | ------------------------ |
+| -------------------- | :--------------: | :------------------------: |
 |                      | General        |                          
 | Lenguajes            | [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,python,bash)](https://skillicons.dev)                | [![My Skills](https://skillicons.dev/icons?i=c,cpp,ruby)](https://skillicons.dev)                          |
 | Bases de datos       | ![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?logo=microsoftsqlserver)  ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=black) ![Static Badge](https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=orange)|  ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=SQLite&logoColor=green)  |
@@ -19,7 +19,7 @@
 
 
 | Categoria               | Herramienta |
-| ----------------------- | ----------- |
+| ----------------------- | :-----------: |
 | Enumeracion             | ![Static Badge](https://img.shields.io/badge/Nmap-%231A285F) ![Static Badge](https://img.shields.io/badge/wfuzz-%231A285F) ![Static Badge](https://img.shields.io/badge/gobuster-%231A285F) ![Static Badge](https://img.shields.io/badge/dirsearch-%231A285F) ![Static Badge](https://img.shields.io/badge/nikto-%231A285F) ![Static Badge](https://img.shields.io/badge/whatweb-%231A285F) ![Static Badge](https://img.shields.io/badge/wpscan-%231A285F) ![Static Badge](https://img.shields.io/badge/drupescan-%231A285F) ![Static Badge](https://img.shields.io/badge/joomscan-%231A285F) ![Static Badge](https://img.shields.io/badge/joomblah-%231A285F) ![Static Badge](https://img.shields.io/badge/smbclient-%231A285F) ![Static Badge](https://img.shields.io/badge/smbmap-%231A285F) ![Static Badge](https://img.shields.io/badge/crackmapexec-%231A285F) ![Static Badge](https://img.shields.io/badge/enum4linux-%231A285F) ![Static Badge](https://img.shields.io/badge/sslscan-%231A285F) ![Static Badge](https://img.shields.io/badge/curl-%231A285F) ![Static Badge](https://img.shields.io/badge/portfu-%231A285F) ![Static Badge](https://img.shields.io/badge/amass-%231A285F) ![Static Badge](https://img.shields.io/badge/sublit3r-%231A285F)          |
 | Escalada de privilegios | ![Static Badge](https://img.shields.io/badge/JuicyPotato-%234B275F?logo=Linux) ![Static Badge](https://img.shields.io/badge/LinEnum-%234B275F?logo=Linux) ![Static Badge](https://img.shields.io/badge/LinPEAS-%234B275F?logo=Linux) ![Static Badge](https://img.shields.io/badge/linux--exploit--suggester-%234B275F?logo=Linux) ![Static Badge](https://img.shields.io/badge/peda-%234B275F?logo=Linux) ![Static Badge](https://img.shields.io/badge/pspy-%234B275F?logo=Linux)  ![Static Badge](https://img.shields.io/badge/Kerbrute-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Empire-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/FullPowers-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/GetNPUsers-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/GetUsersSPNs-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Incognito-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/JAWS-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Mimikatz-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/PowerUp-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/PowerView-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/PrintSpoofer-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Rubeus-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Seatbelt-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Secretsdump-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Sherlock-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Watson-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/Windows--exploit--suggester-blue?logo=Windows&logoColor=white) ![Static Badge](https://img.shields.io/badge/winPEAS-blue?logo=Windows&logoColor=white)           |
 | Criptografía            |![Static Badge](https://img.shields.io/badge/johntheripper-%231A285F) ![Static Badge](https://img.shields.io/badge/hashcat-%231A285F) ![Static Badge](https://img.shields.io/badge/pdfCrack-%231A285F)            |
@@ -28,12 +28,12 @@
 | Tunneling               |  ![Static Badge](https://img.shields.io/badge/shuttle-%231A285F) ![Static Badge](https://img.shields.io/badge/chisel-%231A285F) ![Static Badge](https://img.shields.io/badge/ligolo–ng-%231A285F)            |
 
 
-                                                              # Explotaciones
+                                                               Explotaciones
 
 ## Web
 
 | Categoria      | Vulnerabilidad |
-| -------------- | -------------- |
+| -------------- | :--------------: |
 | SQL Injection  | ![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?logo=microsoftsqlserver)  ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=black) ![Static Badge](https://img.shields.io/badge/phpMyAdmin-%236C78AF?logo=phpMyAdmin&logoColor=orange) ![Static Badge](https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=white)  ![Static Badge](https://img.shields.io/badge/MariaDB-%23003545?logo=mariadb&logoColor=white) ![Static Badge](https://img.shields.io/badge/PostgreSQL-%234169E1?logo=postgresql&logoColor=white)               |
 | CMS            | ![Static Badge](https://img.shields.io/badge/Wordpress-%2321759B?logo=Wordpress&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Joomla-%235091CD?logo=Joomla&logoColor=red) ![Static Badge](https://img.shields.io/badge/Drupal-%230678BE?logo=Drupal&logoColor=white)  ![Static Badge](https://img.shields.io/badge/Strapi-%234945FF?logo=Strapi&logoColor=white) ![Static Badge](https://img.shields.io/badge/October%20CMS-white?logo=octobercms&logocolor=%23DB6A26)  ![Static Badge](https://img.shields.io/badge/WonderCMS-orange) ![Static Badge](https://img.shields.io/badge/ZenPhoto-orange) ![Static Badge](https://img.shields.io/badge/Subrion-orange) ![Static Badge](https://img.shields.io/badge/CS--Cart-orange) ![Static Badge](https://img.shields.io/badge/Ovidentia-orange) ![Static Badge](https://img.shields.io/badge/OTRS-orange) ![Static Badge](https://img.shields.io/badge/Cuppa-orange) ![Static Badge](https://img.shields.io/badge/Nibbleblog-orange)              |
 | Aplicacion Web |                |
@@ -43,10 +43,11 @@
 
 | Servicio | Vulnerabilidad |
 | -------- | -------------- |
-| SMB      |                |
-| FTP      |                |
-| SMTP     |                |
+| SMB      | [CVE-2007-2447](https://raw.githubusercontent.com/amriunix/CVE-2007-2447/master/usermap_script.py) <br> [MS17-010 (EternalBlue)](https://www.exploit-db.com/exploits/42315) <br> [MS17-010 (EternalBlue) Windows 7](https://github.com/3ndG4me/AutoBlue-MS17-010.git) <br> [MS17-010 (EternalBlue) Windows XP](https://github.com/worawit/MS17-010/blob/master/mysmb.py) <br> [MS17-010 (EternalBlue) Windows 8](https://github.com/worawit/MS17-010.git) <br> [MS17-010 (EternalBlue) Windows Server 2000](https://www.exploit-db.com/exploits/42315) <br> [CVE-2017-7494 is_known_pipe_name](https://www.exploit-db.com/exploits/42084) <br> [Samba 2.2 trans2open](https://www.exploit-db.com/exploits/7) <br> [CVE-2009-3103 srv2.sys](https://www.exploit-db.com/exploits/40280) <br> [SCF Attack](https://raw.githubusercontent.com/xct/hashgrab/main/hashgrab.py)|
+| FTP      |[Home FTP Server Directory Traversal](https://www.exploit-db.com/exploits/34050) <br> [zFTPServer Directory Traversal](https://www.exploit-db.com/exploits/18235) <br> [ProFTPd 1.3.5 RCE](https://www.exploit-db.com/exploits/36803) <br> [Wing FTP Server RCE](https://www.exploit-db.com/exploits/48676) <br> Arbitrary File Upload                |
+| SMTP     | [Postfix SMTP Shellshock RCE](https://www.exploit-db.com/exploits/34896) <br> [Sendmail clamav-milter RCE](https://www.exploit-db.com/exploits/4761) <br> [OpenSMTPD 6.6 RCE](https://www.exploit-db.com/exploits/47984) <br> [Apache James 2.3 RCE](https://www.exploit-db.com/exploits/35513) <br>              |
 | SSH      |                |
 | Otros    |                |
 
 ## Escalada de privilegios
+
