@@ -50,4 +50,20 @@
 
 ## Escalada de privilegios
 
+### Linux
 
+| Categoria                       | Vulnerabilidad |
+| :-------------------------------: | -------------- |
+| SUID                            | /usr/bin/screen <br> /opt/count <br> /usr/local/bin/supershell <br> /usr/local/bin/backup <br> /usr/bin/nmap <br> /usr/bin/menu <br> /usr/bin/systemctl <br> /usr/bin/cp <br> /usr/bin/find <br>  /usr/bin/status <br> /usr/bin/dosbox <br> /usr/sbin/start-stop-daemon             |
+| SUDO                            | /usr/bin/knife <br> /usr/bin/wget <br> /usr/bin/perl <br> /usr/bin/yum <br> ALL <br> /usr/sbin/service <br> /usr/sbin/adduser <br> /usr/bin/apt-get <br> /usr/bin/mail <br> /usr/bin/gcore <br> /usr/bin/git <br> /usr/bin/time <br> /usr/bin/pkexec <br> !root /bin/bash <br> SUDOEDIT            |
+| Cronjobs                            | /etc/postfix/disclaimer <br> [APT](https://www.hackingarticles.in/linux-for-pentester-apt-privilege-escalation/) <br> VNC <br> tmux <br> MongoDB Scheduler <br> [chkrootkit](https://www.exploit-db.com/exploits/33899) <br> /laravel/artisan <br> Wildcard Injection <br> Exiftool <br> log_sweeper              |
+| Bases de datos                  | [MySQL UDF](https://www.exploit-db.com/exploits/7856) ![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=black) <br> [MSSQL xp_cmdshell](https://learn.microsoft.com/es-es/sql/relational-databases/system-stored-procedures/xp-cmdshell-transact-sql?view=sql-server-ver16 ) ![Static Badge](https://img.shields.io/badge/MSSQL-%23CC2927?logo=microsoftsqlserver)              |
+| Docker                          | [Escape de una instancia docker](https://gtfobins.github.io/gtfobins/docker/#shell)               |
+| NFS                             | [no_root_squash](https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/6/html/security_guide/sect-security_guide-securing_nfs-do_not_use_the_no_root_squash_option)               |
+| Path hijacking                  | SCP <br> TAR               |
+| Insecure group privilege        | (disk)               |
+| Servicios                       | [Webmin/Miniserv Package Update RCE](https://www.exploit-db.com/exploits/49318) <br> [Laravel RCE](https://github.com/nth347/CVE-2021-3129_exploit) <br> [Monitorr RCE](https://www.exploit-db.com/exploits/48980)               |
+| Kernel                          |                |
+| Weak file permissions           |                |
+| Port Knoking                    |                |
+| Password minning & Fuerza bruta |                |
