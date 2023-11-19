@@ -63,7 +63,25 @@
 | Path hijacking                  | SCP <br> TAR               |
 | Insecure group privilege        | (disk)               |
 | Servicios                       | [Webmin/Miniserv Package Update RCE](https://www.exploit-db.com/exploits/49318) <br> [Laravel RCE](https://github.com/nth347/CVE-2021-3129_exploit) <br> [Monitorr RCE](https://www.exploit-db.com/exploits/48980)               |
-| Kernel                          |                |
-| Weak file permissions           |                |
-| Port Knoking                    |                |
-| Password minning & Fuerza bruta |                |
+| Kernel                          | [Linux Kernel 4.4.0-116 (Ubuntu 16.04)](https://www.exploit-db.com/exploits/44298) <br> [Linux Kernel 4.4.x (Ubuntu 16.04) - 'double-fdput()'](https://www.exploit-db.com/exploits/39772) <br> [Linux Kernel < 4.13.9 (Ubuntu 16.04 / Fedora 27)](https://www.exploit-db.com/exploits/45010) <br> [Linux Kernel 2.4/2.6 - 'sock_sendpage()'](https://www.exploit-db.com/exploits/9641) <br> [Linux Kernel 2.6.22 < 3.9 (x86/x64) - 'Dirty COW'](https://www.exploit-db.com/exploits/40616) <br> [Linux Kernel 2.6.22 < 3.9 - 'Dirty COW' 'PTRACE_POKEDATA' ](https://www.exploit-db.com/exploits/40839) <br> [Linux Kernel 2.6.36-rc8 RDS](https://www.exploit-db.com/exploits/15285) <br> [Linux Kernel 2.6.37 (RedHat / Ubuntu 10.04) Full Nelson](https://www.exploit-db.com/exploits/15704) <br>  [Linux Kernel 2.6.39 < 3.2.2 Mempodipper](https://www.exploit-db.com/exploits/18411)            |
+| Weak file permissions           | Permiso de escritura /etc/passwd <br> Permiso de escritura /etc/shadow <br> [Webmin Arbitrary File Disclosure](https://www.exploit-db.com/exploits/1997)             |
+| Port Knoking                    | [/usr/sbin/knock](https://www.exploit-db.com/exploits/1997)               |
+| Password minning | Webroot config files <br> /etc/mysql <br> Firefox DB               |
+
+
+
+### Windows
+
+| Categoría                        | Vulnerabilidad |
+| -------------------------------- | -------------- |
+| SePrivileges                     | [SeImpersonatePrivilege PrintSpoofer](https://github.com/itm4n/PrintSpoofer/releases) <br> [SeImpersonatePrivilege JuicyPotato](https://github.com/ohpe/juicy-potato/releases) <br> [SeImpersonatePrivilege JuicyPotato (x32) + CLSID](https://github.com/ohpe/juicy-potato/tree/master/CLSID/Windows_7_Enterprise) <br> [SeImpersonatePrivilege Incognito](https://github.com/milkdevil/incognito2) <br> [SeLoadDriversPrivilege](https://www.tarlogic.com/blog/seloaddriverprivilege-privilege-escalation/) <br> [SeBackupPrivilege](https://www.hackingarticles.in/windows-privilege-escalation-sebackupprivilege/) <br> [SeRestorePrivilege](https://raw.githubusercontent.com/gtworek/PSBits/master/Misc/EnableSeRestorePrivilege.ps1) <br> Forzar obtencion de privilegios con [FullPowers](https://github.com/itm4n/FullPowers/releases/tag/v0.1)             |
+| Kernel                           | [CVE-2018-8120](https://github.com/SecWiki/windows-kernel-exploits/blob/master/CVE-2018-8120/x64.exe) <br> [MS10-059](https://github.com/Re4son/Chimichurri/blob/master/Chimichurri.exe) <br> [Windows Server 2003 - Token Kidnapping](https://www.exploit-db.com/exploits/6705) <br> [MS16-098](https://www.exploit-db.com/raw/41020) <br> [MS16-032 Empire](https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/privesc/Invoke-MS16032.ps1) <br> [MS16-032 Metasploit](https://www.exploit-db.com/exploits/40107) <br> [MS11-046](https://www.exploit-db.com/raw/40564) <br> [CVE-2019-1388](https://github.com/jas502n/CVE-2019-1388) <br> Windows Vista - MS13-053 ppr_flatten_rec (Metasploit) <br> [Windows 8.1/8 - MS14-058](https://www.exploit-db.com/exploits/37064) <br> [Windows 10 Build 1803 - COMahawk](https://www.exploit-db.com/exploits/47684)             |
+| Aplicaciones instaladas          | [PaperStream IP - CVE-2018-16156](https://www.exploit-db.com/exploits/49382) <br>  [Plantronics Hub](https://www.exploit-db.com/exploits/47845) <br>   [Druva inSync](https://www.exploit-db.com/exploits/48505) <br> [Argus Surveillance Weak Password Encription](https://www.exploit-db.com/exploits/50130)          |
+| Unquoted Path                    | [Windows XP SP0/SP1 upnphost & SSDPSRV](https://sohvaxus.github.io/content/winxp-sp1-privesc.html) <br> [Advanced System Care Service 9](https://www.exploit-db.com/exploits/49049) <br> [Foxit Reader 7.0.6.1126](https://www.exploit-db.com/exploits/36390) <br> [IObit Uninstaller 9.1.0.8](https://www.exploit-db.com/exploits/47538) <br> [Iperius Remote 1.7.0](https://www.exploit-db.com/exploits/40427)             |
+| Insecure GUI Applications        | mspaint.exe                 |
+| Abuso de GPOs                    | [SharpGPOAbuse](https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.0_x64/SharpGPOAbuse.exe)                |
+| UAC Bypass                       |  GUI runAS Method <br> [Bypass UAC Injection Metasploit](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/local/bypassuac_injection.rb)  <br> [Fod Helper](https://pentestlab.blog/2017/06/07/uac-bypass-fodhelper/)            |
+| Privilegios de grupo inseguros   |  DNS Admins <br> AD Recycle Bin              |
+| Permisos de directorio inseguros |  WAMP64 <br> [BarracudaDrive v6.5](https://www.exploit-db.com/exploits/48789)  <br> []()            |
+| Registros                        |  AlwaysInstallElevated              |
+| Password Mining                  | C:\Windows\Panther\Unattend\Unattended.xml <br> /AppData/Roaming/StickyNotes.lnk <br> /AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/LocalState               |
