@@ -49,9 +49,9 @@
 
 # OWASP Top Vulnerabilities
 
-| File inclusions | SQL Injection | XSS  | XXE  | Authentication |
+| [File inclusions](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/File%20Inclusion.md) | [SQL Injection](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/SQL%20Injection) | [XSS](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/XSS)  | [XXE](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/XXE.md)  | Authentication |
 | :---------------: | :-------------: | :----: | :----: | :--------------: |
-| **X-Path**          | **SSRF**          | **SSTI** | **CSRF** | **RCE OS**        |
+| **X-Path**          | [**SSRF**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/SSRF.md)          | [**SSTI**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/SSTI.md) | **CSRF** | [**RCE OS**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/Ejecucion%20de%20Comandos.md)        |
 
 
 ## Servicios
@@ -95,8 +95,56 @@
 | Unquoted Path                    | [Windows XP SP0/SP1 upnphost & SSDPSRV](https://sohvaxus.github.io/content/winxp-sp1-privesc.html) <br> [Advanced System Care Service 9](https://www.exploit-db.com/exploits/49049) <br> [Foxit Reader 7.0.6.1126](https://www.exploit-db.com/exploits/36390) <br> [IObit Uninstaller 9.1.0.8](https://www.exploit-db.com/exploits/47538) <br> [Iperius Remote 1.7.0](https://www.exploit-db.com/exploits/40427)             |
 | Insecure GUI Applications        | mspaint.exe                 |
 | Abuso de GPOs                    | [SharpGPOAbuse](https://github.com/Flangvik/SharpCollection/raw/master/NetFramework_4.0_x64/SharpGPOAbuse.exe)                |
-| UAC Bypass                       |  GUI runAS Method <br> [Bypass UAC Injection Metasploit](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/local/bypassuac_injection.rb)  <br> [Fod Helper](https://pentestlab.blog/2017/06/07/uac-bypass-fodhelper/)            |
+| UAC Bypass                       |  GUI runAS Method <br> [Bypass UAC Injection Metasploit](https://github.com/rapid7/metasploit-framework/blob/master/modules/exploits/windows/local/bypassuac_injection.rb)  <br> [Fod Helper](https://pentestlab.blog/2017/06/07/uac-bypass-fodhelper/)       |
 | Privilegios de grupo inseguros   |  DNS Admins <br> AD Recycle Bin              |
 | Permisos de directorio inseguros |  WAMP64 <br> [BarracudaDrive v6.5](https://www.exploit-db.com/exploits/48789)         |
 | Registros                        |  AlwaysInstallElevated              |
 | Password Mining                  | C:\Windows\Panther\Unattend\Unattended.xml <br> /AppData/Roaming/StickyNotes.lnk <br> /AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/LocalState               |
+
+
+## Maquinas y CTF
+
+### HackTheBox
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|Pandora|Intelligence|TartarSauce|Writer|Knife|Reel2|
+|Epsilon|Cascade|Sunday|Artic|Backdoor|APT|
+|NodeBlog|Monteverde|Poison|Granny|Secret|Sauna|
+|Bolt|Blackfield|Valentine|Optimum|Charon|Fuse|
+|Validation|Sizzle|NodeBlog|Devel|Flujab|Active|
+|Toolbox|Love|Kotarak|Blue|Redcross|Forest|
+|Horizontal|Rabbit|SolidState|Legacy|Enterprise|Jeeves|
+|GoodGames|Netmon|Sense|Resolute|October|Jerry|
+|Nineveh|Cronos|Beep|Nibbles|Bashed|Shocker|
+|Brainfuck|Lame|Grandpa|Bounty|||
+### TryHackMe
+
+|   |   |   |
+|---|---|---|
+|NahamStore|Gatekeeper|GameZone|
+|Retro|Brainstorm|HackPark|
+|MrRobotCTF|Internal|Alfred|
+|Corp|Relevant|SteelMountain|
+|Attacktive Directory|Daily Buggle|Kenobi|
+|Brainpan1|Skynet|Vulnversity|
+
+### Offensive Security Playing Grounds Practice/Play
+|   |   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|---|
+|InfosecPrep|Algeron|ClamAV|Stapler|MedJed|Banzai|Walla|Clyde|Readys|
+|Seppuku|Squid|Wombo|TRE: 1|Billyboss|Hunit|Pelican|Shifty|Nukem|
+|DC-1|robust|Exfiltrated|Assertion101|Hutch|Dibble|Snookums|CookieCutter|Sorcerer|
+|DC-2|Internal|wheels|DC-4|Shenzi|Zino|Voip|Tico||
+|FunboxEasy|Nickel|Bratarina|ICMP|DVR4|Hetemit|ERP|Heist||
+|FunboxEasyEnum|Slort|HelpDesk|DC-9|Craft|Postfish|Depreciated|Vault||
+|DriftingBlue6|Authby|Twiggy|Djinn3|resourced|Malbec|XposedAPI|Craft2||
+|Dawn|Jacko|Fail|GLASGOW SMILE: 1.1||Sybaris|Zipper|Vector||
+|SoSimple|UT99|Nibbles|Peppo|MeatHead|Hawat|Thor|ZenPhoto||
+### Vulnhub
+
+|   |   |   |   |
+|---|---|---|---|
+|Bravery|Healthcare|Joy|Kioptrix-3|
+|Torment|Photographer|Tiki|Kioptrix-4|
+|Mercy|Breach 1.0|Skytower|Kioptrix-5|
+|Fall|Kioptrix-2|DC-6||
