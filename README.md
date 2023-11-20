@@ -1,4 +1,11 @@
+[![bannererer.jpg](https://i.postimg.cc/YqwP4Prf/bannererer.jpg)](https://postimg.cc/c6Xh2X8r)
 
+
+Hola, soy n3masyst, Analista de ciberseguridad y Pentester, actualmente me estoy especializando en hacking web y de sistemas, tambien tengo algo de experiencia en OSINT y auditorias de aplicaciones moviles. Otras areas que me despiertan gran interes son el Hardware Hacking, Phishing y Wireless Hacking (wifi, bluetooth,antenas,señales moviles, etc) las cuales me gustaria adentrarme lo antes posible.
+
+Actualmente estoy trabajando en distintas certificaciones de Red Team para las que entreno realizando gran cantidad de CTF y laboratorios, ademas de crear contenido de todo ello.
+
+En esta tabla reflejo el Background que tengo sobre distintas tecnologias generales en informatica.
 
 |                      | Que uso        | Que me gustaria aprender |
 | -------------------- | :--------------: | :------------------------: |
@@ -17,6 +24,8 @@
 
 # Herramientas
 
+Esta tabla lista las herramientas que en una auditoria uso normalmente, en cuanto a la fase de explotacion uso los Frameworks mencionados en la tabla anterior, exploits publicos o mi metodologia de explotacion personal.
+
 
 | Categoria               | Herramienta |
 | ----------------------- | :-----------: |
@@ -28,9 +37,11 @@
 | Tunneling               |  ![Static Badge](https://img.shields.io/badge/shuttle-%231A285F) ![Static Badge](https://img.shields.io/badge/chisel-%231A285F) ![Static Badge](https://img.shields.io/badge/ligolo–ng-%231A285F)            |
 
 
-# Explotaciones
+<h1 align="center"> Explotaciones </h1>
 
 ## Web
+
+En esta tabla enumero todas las aplicaciones/tecnologias/software web a las cuales me he enfrentado y he explotado exitosamente.
 
 | Categoria      | Software | 
 | -------------- | :----------: |
@@ -39,7 +50,7 @@
 | Aplicacion Web |![Static Badge](https://img.shields.io/badge/Webmin-%237DA0D0?logo=Webmin&logoColor=black) ![Static Badge](https://img.shields.io/badge/Flask-black?logo=Flask&logoColor=white) ![Static Badge](https://img.shields.io/badge/GraphQL-%23E10098?logo=GraphQL&logoColor=black) ![Static Badge](https://img.shields.io/badge/Tomcat-%23F8DC75?logo=ApacheTomcat&logoColor=black) ![Static Badge](https://img.shields.io/badge/Sonatype%20Nexus%20Repository%20Manager-blue?logo=Sonatype&logoColor=black) ![Static Badge](https://img.shields.io/badge/pfSense-blue?logo=pfSense&logoColor=black) ![Static Badge](https://img.shields.io/badge/Jenkins-%23D24939?logo=Jenkins&logoColor=black) ![Static Badge](https://img.shields.io/badge/Adobe%20Coldfusion-%23FF0000?logo=Adobe&logoColor=white)  [![StaticBadge](https://img.shields.io/badge/H2%20Database-orange)](https://img.shields.io/badge/H2%20Database-orange) [![StaticBadge](https://img.shields.io/badge/HFS-orange)](https://img.shields.io/badge/HFS-orange)   [![StaticBadge](https://img.shields.io/badge/HP%20Power%20Manager-orange)](https://img.shields.io/badge/HP%20Power%20Manager-orange) [![StaticBadge](https://img.shields.io/badge/HTTPFileServer-orange)](https://img.shields.io/badge/HTTPFileServer-orange) [![StaticBadge](https://img.shields.io/badge/iWeb-orange)](https://img.shields.io/badge/iWeb-orange) [![StaticBadge](https://img.shields.io/badge/LiteSpeed-orange)](https://img.shields.io/badge/LiteSpeed-orange) [![StaticBadge](https://img.shields.io/badge/MantisBT%20%26%20Adminer-orange)](https://img.shields.io/badge/MantisBT%20%26%20Adminer-orange) [![StaticBadge](https://img.shields.io/badge/Online%20Discussion%20Forum-orange)](https://img.shields.io/badge/Online%20Discussion%20Forum-orange) [![StaticBadge](https://img.shields.io/badge/Online%20Marriage%20Registration%20System-orange)](https://img.shields.io/badge/Online%20Marriage%20Registration%20System-orange) [![StaticBadge](https://img.shields.io/badge/OrientDB-orange)](https://img.shields.io/badge/OrientDB-orange) [![StaticBadge](https://img.shields.io/badge/OWA-orange)](https://img.shields.io/badge/OWA-orange) [![StaticBadge](https://img.shields.io/badge/Pandora%20FMS-orange)](https://img.shields.io/badge/Pandora%20FMS-orange) [![StaticBadge](https://img.shields.io/badge/PHP%20Power%20Browse-orange)](https://img.shields.io/badge/PHP%20Power%20Browse-orange) [![StaticBadge](https://img.shields.io/badge/PHPLiteAdmin-orange)](https://img.shields.io/badge/PHPLiteAdmin-orange) [![StaticBadge](https://img.shields.io/badge/Phreebooks-orange)](https://img.shields.io/badge/Phreebooks-orange) [![StaticBadge](https://img.shields.io/badge/PRTG%20Network%20Monitor-orange)](https://img.shields.io/badge/PRTG%20Network%20Monitor-orange) [![StaticBadge](https://img.shields.io/badge/RaspAP-orange)](https://img.shields.io/badge/RaspAP-orange) [![StaticBadge](https://img.shields.io/badge/Responsive%20Online%20Blog-orange)](https://img.shields.io/badge/Responsive%20Online%20Blog-orange) [![StaticBadge](https://img.shields.io/badge/Simple%20PHP%20Photo%20Gallery-orange)](https://img.shields.io/badge/Simple%20PHP%20Photo%20Gallery-orange)  [![StaticBadge](https://img.shields.io/badge/SmarterMail-orange)](https://img.shields.io/badge/SmarterMail-orange) [![StaticBadge](https://img.shields.io/badge/TimeClock%20Software-orange)](https://img.shields.io/badge/TimeClock%20Software-orange) [![StaticBadge](https://img.shields.io/badge/Utility%20Belt-orange)](https://img.shields.io/badge/Utility%20Belt-orange) [![StaticBadge](https://img.shields.io/badge/Voting%20System-orange)](https://img.shields.io/badge/Voting%20System-orange) [![StaticBadge](https://img.shields.io/badge/vtiger-orange)](https://img.shields.io/badge/vtiger-orange) [![StaticBadge](https://img.shields.io/badge/Web2py-orange)](https://img.shields.io/badge/Web2py-orange) [![StaticBadge](https://img.shields.io/badge/WebERP-orange)](https://img.shields.io/badge/WebERP-orange) [![StaticBadge](https://img.shields.io/badge/Advanced%20Comment%20System-orange)](https://img.shields.io/badge/Advanced%20Comment%20System-orange) [![StaticBadge](https://img.shields.io/badge/Ajenti-orange)](https://img.shields.io/badge/Ajenti-orange) [![StaticBadge](https://img.shields.io/badge/ApPHP%20MicroBlog-orange)](https://img.shields.io/badge/ApPHP%20MicroBlog-orange) [![StaticBadge](https://img.shields.io/badge/Argus%20Surveillance-orange)](https://img.shields.io/badge/Argus%20Surveillance-orange) [![StaticBadge](https://img.shields.io/badge/BlogServer-orange)](https://img.shields.io/badge/BlogServer-orange) [![StaticBadge](https://img.shields.io/badge/Booked-orange)](https://img.shields.io/badge/Booked-orange) [![StaticBadge](https://img.shields.io/badge/Complain%20Management%20System-orange)](https://img.shields.io/badge/Complain%20Management%20System-orange)[![StaticBadge](https://img.shields.io/badge/CSE%20Bookstore-orange)](https://img.shields.io/badge/CSE%20Bookstore-orange) [![StaticBadge](https://img.shields.io/badge/DZCP%20(deV!L%60z%20Clanportal)-orange)](https://img.shields.io/badge/DZCP%20(deV!L%60z%20Clanportal)-orange) [![StaticBadge](https://img.shields.io/badge/Elastix-orange)](https://img.shields.io/badge/Elastix-orange) [![StaticBadge](https://img.shields.io/badge/Exhibitor%20for%20Zookeeper-orange)](https://img.shields.io/badge/Exhibitor%20for%20Zookeeper-orange)              |
 | Arquitectura   | ![Static Badge](https://img.shields.io/badge/PHP%208.3-%23777BB4?logo=php&logoColor=white) ![Static Badge](https://img.shields.io/badge/NodeJS-%23339933?logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/Internet%20Explorer%207-%230076D6?logo=InternetExplorer&logoColor=white) ![Static Badge](https://img.shields.io/badge/Firefox%2038.0-%23FF7139?logo=FirefoxBrowser&logoColor=white) ![Static Badge](https://img.shields.io/badge/IIS-blue) ![Static Badge](https://img.shields.io/badge/ASP-blue)             |
 
-
+Vulnerabilidades en cuestión
 
 | Tecnologia     | Vulnerabilidad |
 | -------------- | -------------- |
@@ -47,7 +58,11 @@
 | Aplicación web |  [Pandora_v7.0NG.742](https://github.com/shyam0904a/Pandora_v7.0NG.742_exploit_unauthenticated) <br> [Web2py 2.14.5](https://www.exploit-db.com/exploits/39821) <br> [OrientDB Groovy RCE](https://www.exploit-db.com/exploits/44068) <br> [DZCP (deV!L`z Clanportal) RFI](https://www.exploit-db.com/exploits/11735) <br> [PHP Utility Belt RCE](https://www.exploit-db.com/exploits/38901) <br> [Ashley Brown iWeb Server Encoded Directory Traversal](https://www.exploit-db.com/exploits/23318) <br> [TimeClock Sofware Time-based blind SQLi](https://raw.githubusercontent.com/timip/exploit/master/timeclock.py) <br> [PHP Power Browse Directory Traversal](https://www.exploit-db.com/exploits/40204) <br> [OMRS RCE](https://www.exploit-db.com/exploits/49557) <br> [Online Discussion Forum Site RCE](https://www.exploit-db.com/exploits/49557) <br> [Responsive Online Blog SQLi](https://packetstormsecurity.com/files/158391/Responsive-Online-Blog-1.0-SQL-Injection.html) <br> [CSE Bookstore SQLi](https://www.exploit-db.com/exploits/49314) <br> [LiteSpeed Web Server Enterprise Command Injection (Authenticated)](https://www.exploit-db.com/exploits/49523) <br> [WebERP 4.15 - SQL injection](https://www.exploit-db.com/exploits/47013) <br> [SimplePHPGal RFI](https://www.exploit-db.com/exploits/48424) <br> [Exhibitor Web UI RCE](https://www.exploit-db.com/exploits/48654) <br> [RaspAP RCE (Authenticated)](https://www.exploit-db.com/exploits/50224) <br> [Booked Scheduler RCE (Authenticated)](https://www.exploit-db.com/exploits/50594) <br> [Argus Surveillance DVR Directory Traversal](https://www.exploit-db.com/exploits/45296) <br> [Sonatype Nexus RCE (Authenticated)](https://www.exploit-db.com/exploits/49385) <br> [H2 Database JNI Code Execution](https://www.exploit-db.com/exploits/49384) <br> Mantis Bug Tracker exposure of sensitive data <br> [HP Power Manager BOF (Metasploit)](https://www.exploit-db.com/exploits/18015) <br> [SmarterMail Build 6985 RCE](https://www.exploit-db.com/exploits/49216) <br> [ApPHP MicroBlog RCE](https://www.exploit-db.com/exploits/33070) <br> [Advanced Comment System LFI](https://www.exploit-db.com/exploits/9623) <br> [Webmin < 1.290 / Usermin < 1.220 - Arbitrary File Disclosure](https://www.exploit-db.com/exploits/1997) <br> [Webmin-1.910 RCE](https://github.com/roughiz/Webmin-1.910-Exploit-Script) <br> [Simple Text-File Login script (SiTeFiLo) File Disclosure / RFI](https://www.exploit-db.com/exploits/7444) <br> [PhreeBooks ERP Arbitrary File Upload](https://www.exploit-db.com/exploits/46644) <br> Vtiger CRM 6.3.0 - (Authenticated) Arbitrary File Upload <br> [BlogEngine.NET 3.3.6/3.3.7 Directory Traversal /RCE](https://www.exploit-db.com/exploits/47011) <br> [Rejetto HTTP File Server (HFS) 2.3.x RCE](https://www.exploit-db.com/exploits/39161) <br> Tomcat Malicious WAR File <br> [pfSense < 2.1.4 Command Injection](https://www.exploit-db.com/exploits/43560) <br> [phpLiteAdmin SQLi](https://www.exploit-db.com/exploits/38228) <br> [Elastix 2.2.0 - 'graph.php' LFI](https://www.exploit-db.com/exploits/37637) <br> [Voting System 1.0 - File Upload RCE](https://www.exploit-db.com/exploits/49445) <br> [Complain Management System SQLi](https://www.exploit-db.com/exploits/41131) <br> [PRTG Network Monitor 18.2.38 - (Authenticated RCE)](https://www.exploit-db.com/exploits/46527)            |
 | Arquitectura   | [Microsoft Internet Explorer 7 - Memory Corruption (MS09-002)](https://www.exploit-db.com/exploits/8080) <br> [Adobe Flash Player - ShaderJob BOF (Metasploit)](https://www.exploit-db.com/exploits/37368) <br> [Microsoft IIS 6.0 - WebDAV BOF](https://www.exploit-db.com/exploits/41738) <br> [PHP 8.1.0-dev - 'User-Agentt' RCE](https://www.exploit-db.com/exploits/49933)             |
 
-# OWASP Top Vulnerabilities
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![owasp.png](https://i.postimg.cc/13gPBTFn/owasp.png)](https://postimg.cc/QFrRxf0h)
+
+<h1 align="center"> OWASP Top Vulnerabilities </h1>
 
 | [File inclusions](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/File%20Inclusion.md) | [SQL Injection](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/SQL%20Injection) | [XSS](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/XSS)  | [XXE](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/XXE.md)  | Authentication |
 | :---------------: | :-------------: | :----: | :----: | :--------------: |
@@ -102,7 +117,8 @@
 | Password Mining                  | C:\Windows\Panther\Unattend\Unattended.xml <br> /AppData/Roaming/StickyNotes.lnk <br> /AppData/Local/Packages/Microsoft.MicrosoftStickyNotes_8wekyb3d8bbwe/LocalState               |
 
 
-## Maquinas y CTF
+<h1 align="center"> Maquinas y CTF </h1>
+
 
 ### HackTheBox
 |   |   |   |   |   |   |
