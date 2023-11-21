@@ -39,6 +39,27 @@ Esta tabla lista las herramientas que en una auditoria uso normalmente, en cuant
 
 <h1 align="center"> Explotaciones </h1>
 
+
+
+
+<h1 align="center"> OWASP Top Vulnerabilities </h1>
+
+[![owasp.png](https://i.postimg.cc/13gPBTFn/owasp.png)](https://postimg.cc/QFrRxf0h)
+
+<div align="center">
+  
+| [File inclusions](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/File%20Inclusion.md) | [SQL Injection](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/SQL%20Injection) | [XSS](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/XSS)  | [XXE](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/XXE.md)  | Authentication |
+| :---------------: | :-------------: | :----: | :----: | :--------------: |
+| **X-Path**          | [**SSRF**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/SSRF.md)          | [**SSTI**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/SSTI.md) | **CSRF** | [**RCE OS**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/Ejecucion%20de%20Comandos.md)        |
+
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+
 ## Web
 
 En esta tabla enumero todas las aplicaciones/tecnologias/software web a las cuales me he enfrentado y he explotado exitosamente.
@@ -60,13 +81,7 @@ Vulnerabilidades en cuestión
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![owasp.png](https://i.postimg.cc/13gPBTFn/owasp.png)](https://postimg.cc/QFrRxf0h)
 
-<h1 align="center"> OWASP Top Vulnerabilities </h1>
-
-| [File inclusions](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/File%20Inclusion.md) | [SQL Injection](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/SQL%20Injection) | [XSS](https://github.com/n3masyst/Pentesting/tree/main/OSCP/Cheetsheets/Web/XSS)  | [XXE](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/XXE.md)  | Authentication |
-| :---------------: | :-------------: | :----: | :----: | :--------------: |
-| **X-Path**          | [**SSRF**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/SSRF.md)          | [**SSTI**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/SSTI.md) | **CSRF** | [**RCE OS**](https://github.com/n3masyst/Pentesting/blob/main/OSCP/Cheetsheets/Web/Ejecucion%20de%20Comandos.md)        |
 
 
 ## Servicios
@@ -119,8 +134,10 @@ Vulnerabilidades en cuestión
 
 <h1 align="center"> Maquinas y CTF </h1>
 
+<div align="center">
 
-### HackTheBox
+[![hththth.png](https://i.postimg.cc/gJs9t0Wd/hththth.png)](https://postimg.cc/HcrPVdnP)
+
 |   |   |   |   |   |   |
 |---|---|---|---|---|---|
 |Pandora|Intelligence|TartarSauce|Writer|Knife|Reel2|
@@ -133,7 +150,12 @@ Vulnerabilidades en cuestión
 |GoodGames|Netmon|Sense|Resolute|October|Jerry|
 |Nineveh|Cronos|Beep|Nibbles|Bashed|Shocker|
 |Brainfuck|Lame|Grandpa|Bounty|||
-### TryHackMe
+
+</div>
+
+<div align="center">
+  
+[![thththt.png](https://i.postimg.cc/y8hz3jbk/thththt.png)](https://postimg.cc/k25HkQ9m)
 
 |   |   |   |
 |---|---|---|
@@ -144,7 +166,13 @@ Vulnerabilidades en cuestión
 |Attacktive Directory|Daily Buggle|Kenobi|
 |Brainpan1|Skynet|Vulnversity|
 
-### Offensive Security Playing Grounds Practice/Play
+</div>
+
+<div align="center">
+  <h1 align="center">Offensive Security Proving Grounds Practice/Play</h1>
+  
+[![ofsec.png](https://i.postimg.cc/Gpc94Hqn/ofsec.png)](https://postimg.cc/nXPn5Vy3)
+ 
 |   |   |   |   |   |   |   |   |   |
 |---|---|---|---|---|---|---|---|---|
 |InfosecPrep|Algeron|ClamAV|Stapler|MedJed|Banzai|Walla|Clyde|Readys|
@@ -156,7 +184,12 @@ Vulnerabilidades en cuestión
 |DriftingBlue6|Authby|Twiggy|Djinn3|resourced|Malbec|XposedAPI|Craft2||
 |Dawn|Jacko|Fail|GLASGOW SMILE: 1.1||Sybaris|Zipper|Vector||
 |SoSimple|UT99|Nibbles|Peppo|MeatHead|Hawat|Thor|ZenPhoto||
-### Vulnhub
+
+</div>
+
+<div align="center">
+
+[![vulnhub.png](https://i.postimg.cc/yNPjR3Km/vulnhub.png)](https://postimg.cc/R3Ww5FNh)
 
 |   |   |   |   |
 |---|---|---|---|
@@ -164,3 +197,5 @@ Vulnerabilidades en cuestión
 |Torment|Photographer|Tiki|Kioptrix-4|
 |Mercy|Breach 1.0|Skytower|Kioptrix-5|
 |Fall|Kioptrix-2|DC-6||
+
+</div>
